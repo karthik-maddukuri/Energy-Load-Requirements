@@ -3,6 +3,7 @@ Energy-load
 
 The goals of the project are:
 1. Predict Energy Load Requirements of Residential Buildings
+2. Classify buildings based on having high Heating Load or Cooling Load
 
 Project Organization
 ------------
