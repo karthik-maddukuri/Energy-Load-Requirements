@@ -1,7 +1,8 @@
 Energy-load
 ==============================
 
-Predict Energy Load Requirements of Residential Buildings
+The goals of the project are:
+1. Predict Energy Load Requirements of Residential Buildings
 
 Project Organization
 ------------
